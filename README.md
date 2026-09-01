@@ -55,3 +55,5 @@ npm install
 
 # 3. Start the local development server
 npm run dev
+
+# week 3 task will be start
